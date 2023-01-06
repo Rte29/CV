@@ -1,0 +1,49 @@
+.fontGrey {
+    background-color: rgb(99, 107, 115);
+    text-align: center;
+}
+
+.fontYellow {
+    background-color: rgb(244, 234, 160);
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 1.2rem;
+    margin-bottom: 0.8rem;
+    text-transform: uppercase;
+}
+
+.r1 {
+    font-size: 4rem;
+}
+
+.r2 {
+    font-size: 1.8rem;
+}
+
+.skills {
+    margin-top: 1.2rem;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr {
+    height: 3px;
+    background-color: brown;
+}
+
+img {
+    height: 5px;
+}
+
+.cv {
+    border: ridge;
+}
